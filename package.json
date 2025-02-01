@@ -1,0 +1,18 @@
+{
+  "name": "peer-backend",
+  "version": "1.0.0",
+  "description": "a backend to handle peer to peer groups",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "peer"
+  ],
+  "author": "Anurag Kumar Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
